@@ -1,0 +1,11 @@
+{
+    "name": "DESERT_ROSE",
+    "description": "MELBOURNE - DESERT_ROSE",
+    "image": "https://ipfs.io/ipfs/QmZ2QnQHCNWFoDKqRHUdgd5y7iw1fPfEeJ44WSKHS5CN5f?filename=desert_rose_4.png",
+    "attributes": [
+        {
+            "trait_type": "Fashion",
+            "value": 100
+        }
+    ]
+}

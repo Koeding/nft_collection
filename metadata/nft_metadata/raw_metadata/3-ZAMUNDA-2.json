@@ -1,0 +1,11 @@
+{
+    "name": "ZAMUNDA",
+    "description": "MELBOURNE - ZAMUNDA",
+    "image": "https://ipfs.io/ipfs/QmTMrjMUxnfJP52P1vPSoZSton7jBiuSrvpBUSehgqNC8N?filename=zamunda_2.png",
+    "attributes": [
+        {
+            "trait_type": "Fashion",
+            "value": 100
+        }
+    ]
+}

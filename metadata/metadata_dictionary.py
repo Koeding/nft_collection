@@ -1,0 +1,18 @@
+shoot_metadata_dic = {
+    "0": "https://ipfs.io/ipfs/QmXwFGcciFZ12yEWVbexwr71TDawqX6gpUwfwBoDM56dE7?filename=0-DESERT-ROSE-1.json",
+    "1": "https://ipfs.io/ipfs/QmXFZhb2cgmuUkr7yRWpwi3wiSoYt9arsA3MJxmeCFF8oK?filename=0-DESERT-ROSE-2.json",
+    "2": "https://ipfs.io/ipfs/QmeXZDeHxFsCF8VdubucvXtnPGwumTPYrmVEqUHPBK1pL5?filename=0-DESERT-ROSE-3.json",
+    "3": "https://ipfs.io/ipfs/QmWhZedHpRayYbKCthJYxUa6AmLmoPzhDxLDQjrWSLLVKS?filename=0-DESERT-ROSE-4.json",
+    "4": "https://ipfs.io/ipfs/QmVvwpHcoC1GVnyaZcR1j8joYTCbuExgTfpnLsu3H9MZQq?filename=1-PEARLS-AND-PARROT-1.json",
+    "5": "https://ipfs.io/ipfs/QmX1VCAfMUSXFkAcS5mpKNM5RDonox7cwDMf6WyhfR7Wd6?filename=2-ANTICHRIST-1.json",
+    "6": "https://ipfs.io/ipfs/QmaGKYydGjNmQmJXpHBS7K7xUmixFfAjAAcqc8B5cfVHwq?filename=2-ANTICHRIST-2.json",
+    "7": "https://ipfs.io/ipfs/QmTFVSQz9tFRJzkszf66CWTKuuBr2D1etjR2KbpZ53spFi?filename=2-ANTICHRIST-3.json",
+    "8": "https://ipfs.io/ipfs/QmXQUzobdeVGqNxJruZ7JVBGbmSkDfoZRiPWP6T5Z3NLDv?filename=2-ANTICHRIST-4.json",
+    "9": "https://ipfs.io/ipfs/QmRRw2bnUybVjq6F6g4yooUmDDnjvixQmCki1PpKdGVt6z?filename=3-ZAMUNDA-1.json",
+    "10": "https://ipfs.io/ipfs/QmajHsXJtU5RStrzLq2PmtW254twXUxb4WToYzC8JcEFFt?filename=3-ZAMUNDA-2.json",
+    "11": "https://ipfs.io/ipfs/QmRzKvs5Furh9wALxWxMUVtVQFU7ed3ckY9n5Xfpgu7h6m?filename=3-ZAMUNDA-3.json",
+    "12": "https://ipfs.io/ipfs/QmXPej7DsTroEXrMo4x9UP4RsW9EKFWd63tx14ZqmrH4rC?filename=3-ZAMUNDA-4.json",
+    "13": "https://ipfs.io/ipfs/QmcoQsD6hmg2fVAtWuXugarGgT13ga4rVvh2Qj2JvRrdSe?filename=3-ZAMUNDA-5.json",
+    "14": "https://ipfs.io/ipfs/Qmdaygnk5XTSxyQUiGxWsufdahicP4bb3g4iqCd1WHGAhY?filename=3-ZAMUNDA-6.json",
+    "15": "https://ipfs.io/ipfs/QmcsYheYXR6b29CVnZJQEXB5dqawiyoBcMhho2gKnyVfpe?filename=3-ZAMUNDA-7.json",
+}
